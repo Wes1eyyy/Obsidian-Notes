@@ -1,84 +1,82 @@
 {
   "main": {
-    "id": "c615c3a707b1e30a",
+    "id": "e4888e1ac6fa9c61",
     "type": "split",
     "children": [
       {
-        "id": "8d41792b7f8c0f5d",
+        "id": "53b060202a5a5d6c",
         "type": "tabs",
         "children": [
           {
-            "id": "e30b3a00ae66964e",
+            "id": "b71e3fe31961f779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-10-15.md",
+                "file": "下作勇者/魔王和白鸽神教设定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-15"
+              "title": "魔王和白鸽神教设定"
             }
           },
           {
-            "id": "a583cc41345c2bdc",
+            "id": "aea0ce44becbf995",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "COMP0036/考查点.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "考查点"
-            }
-          },
-          {
-            "id": "ad4a77e7429d0589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "狼人杀笔记/4.25 机械狼3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.25 机械狼3"
-            }
-          },
-          {
-            "id": "2770239f206ff692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.25 白痴双边.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.25 白痴双边"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
+      },
+      {
+        "id": "e6c900fdf922c28e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb7db5f80c2d4d37",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "08ce848793aabe89",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "dbdbccac51b6fa27",
+    "id": "be0fe1af1401e230",
     "type": "split",
     "children": [
       {
-        "id": "cbb380f631da848f",
+        "id": "684e558e5920ab23",
         "type": "tabs",
         "children": [
           {
-            "id": "5704e0264d965dd2",
+            "id": "8bb8c009e602dce6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,11 +85,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
-            "id": "06bf6f6df64c188f",
+            "id": "baa9bf76fb92e2bd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,7 +106,7 @@
             }
           },
           {
-            "id": "e4a6c8db2235a5d3",
+            "id": "8a38ca87bb8f951b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -121,23 +119,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 300
   },
   "right": {
-    "id": "b101773da8047f85",
+    "id": "113904acfe5cc535",
     "type": "split",
     "children": [
       {
-        "id": "752478df44b97b83",
+        "id": "f69fc0933021de41",
         "type": "tabs",
         "children": [
           {
-            "id": "7e87429f45640bc8",
+            "id": "63ddabb285049382",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "狼人杀笔记/11.22 野孩子白痴双边.md",
+                "file": "2025-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,25 +145,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11.22 野孩子白痴双边"
+              "title": "Backlinks for 2025-10-26"
             }
           },
           {
-            "id": "0c251e94e76a2e10",
+            "id": "7de788e5d3befc0a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP0017/Lecture 4 — Mapping Reduction.md",
+                "file": "2025-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 4 — Mapping Reduction"
+              "title": "Outgoing links from 2025-10-26"
             }
           },
           {
-            "id": "f6017c47e1d50262",
+            "id": "5af100e7aa0b7bd5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,18 +178,18 @@
             }
           },
           {
-            "id": "7ba8b9212e4a1770",
+            "id": "2ff2f342b83e1693",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP0017/Lecture 4 — Mapping Reduction.md",
+                "file": "2025-10-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 4 — Mapping Reduction"
+              "title": "Outline of 2025-10-26"
             }
           }
         ]
@@ -203,58 +201,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
     }
   },
-  "active": "5704e0264d965dd2",
+  "active": "8bb8c009e602dce6",
   "lastOpenFiles": [
+    "因困成囚.md",
+    "不是一封信.md",
     "README.md",
-    "狼人杀笔记/4.25 机械狼3.md",
-    "4.25 白痴双边.md",
-    "狼人杀笔记/2.md",
-    "狼人杀笔记/11.21 机械狼通灵师1.md",
+    "2025-10-15.md",
+    "狼人杀笔记/4.25 白痴双边.md",
+    "狼人杀笔记/预女猎白混.md",
     "狼人杀笔记/狼人杀笔记.md",
-    "COMP0036/考查点.md",
-    "COMP0036/Sample Paper核心.md",
-    "COMP0017/Lecture 1-2 TM Introduction.md",
+    "狼人杀笔记/灯影预言家.md",
+    "狼人杀笔记/机械狼通灵师.md",
+    "狼人杀笔记/机械狼.md",
+    "狼人杀笔记/咒狐10人.md",
+    "狼人杀笔记/动物梦境.md",
+    "狼人杀笔记/4.25 机械狼3.md",
+    "狼人杀笔记/5 白狼骑士.md",
     "狼人杀笔记/4.25 机械狼2.md",
     "狼人杀笔记/4.25 机械狼.md",
-    "狼人杀笔记/预女猎白混.md",
+    "狼人杀笔记/4 狼美骑士.md",
+    "狼人杀笔记/3.md",
+    "狼人杀笔记/2.md",
+    "狼人杀笔记/12.6机械狼预言家3.md",
+    "狼人杀笔记/12.6 通灵师预言家.md",
+    "狼人杀笔记/12.6 通灵师机械狼2.md",
+    "狼人杀笔记/12.6 灯影预言家.md",
+    "狼人杀笔记/12.6 傀儡狼.md",
+    "狼人杀笔记/11.6 机械狼通灵师.md",
+    "狼人杀笔记/11.29 预女猎白混.md",
+    "狼人杀笔记",
     "COMP0036/img/Pasted image 20260425175034.png",
     "COMP0036/img/Pasted image 20260425172536.png",
     "COMP0036/img/Pasted image 20260425164949.png",
-    "COMP0036/img/Pasted image 20260425164754.png",
-    "COMP0036/img/Untitled.md",
     "COMP0036/img/Pasted image 20260425161525.png",
-    "COMP0036/img",
+    "COMP0036/img/Pasted image 20260425164754.png",
     "COMP0036/img/Pasted image 20260424215623.png",
+    "COMP0036/img",
     "COMP0036",
-    "狼人杀笔记/11.22 机械狼通灵师.md",
-    "狼人杀笔记/1.16 预女猎白混.md",
-    "狼人杀笔记/1.16 机械狼通灵师2.md",
-    "狼人杀笔记/1.16 机械狼通灵师.md",
-    "2025-10-15.md",
-    "不是一封信.md",
-    "狼人杀笔记/11.29 通灵师机械狼.md",
-    "狼人杀笔记/12.6机械狼预言家3.md",
-    "狼人杀笔记/12.6 傀儡狼.md",
-    "狼人杀笔记/12.6 通灵师预言家.md",
-    "狼人杀笔记/12.6 通灵师机械狼2.md",
-    "狼人杀笔记/11.6 机械狼通灵师.md",
-    "狼人杀笔记/11.29 狼枪守卫混子.md",
-    "剧本杀",
-    "Untitled 2",
-    "Untitled",
-    "狼人杀笔记",
-    "Untitled.canvas",
     "COMP0017",
-    "Untitled.base",
-    "Untitled 1.base"
+    "Obsidian-Notes/狼人杀笔记",
+    "Obsidian-Notes/COMP0036/img/Pasted image 20260425175034.png",
+    "Obsidian-Notes/COMP0036/img/Pasted image 20260425172536.png",
+    "Obsidian-Notes/COMP0036/img/Pasted image 20260425164949.png",
+    "Obsidian-Notes/COMP0036/img/Pasted image 20260425164754.png",
+    "Obsidian-Notes/COMP0036/img",
+    "Obsidian-Notes/COMP0036",
+    "Obsidian-Notes/COMP0017",
+    "Obsidian-Notes",
+    "Untitled.base"
   ]
 }
