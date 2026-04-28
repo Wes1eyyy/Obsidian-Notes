@@ -21,12 +21,14 @@
             "id": "08ce848793aabe89",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "COMP0036/img/Pasted image 20260427213504.png"
+                "file": "COMP0036/Sample Paper核心.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260427213504"
+              "icon": "lucide-file",
+              "title": "Sample Paper核心"
             }
           }
         ],
@@ -178,10 +180,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "8bb8c009e602dce6",
+  "active": "08ce848793aabe89",
   "lastOpenFiles": [
-    "Untitled.base",
     "COMP0036/img/Pasted image 20260427213504.png",
+    "Untitled.base",
     "COMP0036/机械学习方法.md",
     "COMP0036/Sample Paper核心.md",
     "COMP0036/img/Pasted image 20260427212021.png",
