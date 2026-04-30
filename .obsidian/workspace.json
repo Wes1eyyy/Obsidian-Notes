@@ -23,16 +23,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP0036/Sample Paper核心.md",
+                "file": "COMP0012/编译器基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample Paper核心"
+              "title": "编译器基础"
+            }
+          },
+          {
+            "id": "4d823a378acf0aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP0012/编译器基础.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "编译器基础"
+            }
+          },
+          {
+            "id": "b8d19ced37ee2b30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP0012/Parsing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parsing"
+            }
+          },
+          {
+            "id": "837d79e4f2b98dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP0012/Parsing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parsing"
+            }
+          },
+          {
+            "id": "29b9ec10d6d6e481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP0012/Intermediate Code, Runtime, and Code Optimisation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intermediate Code, Runtime, and Code Optimisation"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -180,13 +236,24 @@
       "bases:新建数据库": false
     }
   },
-  "active": "8bb8c009e602dce6",
+  "active": "29b9ec10d6d6e481",
   "lastOpenFiles": [
+    "COMP0012/NFA AND DFA.md",
+    "COMP0012/Intermediate Code, Runtime, and Code Optimisation.md",
+    "COMP0012/Semantic Analysis.md",
+    "COMP0012/编译器基础.md",
+    "COMP0012/Parsing.md",
+    "COMP0012/img/Pasted image 20260430001950.png",
+    "COMP0012/img",
+    "COMP0012/Parsing实战.md",
+    "COMP0012/正则表达式.md",
+    "COMP0012",
+    "COMP0036/Sample Paper核心.md",
     "COMP0036/速记笔记.md",
+    "COMP0036/考查点.md",
     "COMP0036/img/Pasted image 20260427213504.png",
     "Untitled.base",
     "COMP0036/机械学习方法.md",
-    "COMP0036/Sample Paper核心.md",
     "COMP0036/img/Pasted image 20260427212021.png",
     "COMP0036/img/Pasted image 20260427210654.png",
     "COMP0036/img/Pasted image 20260427210644.png",
@@ -195,8 +262,6 @@
     "COMP0036/img/Pasted image 20260427205127.png",
     "COMP0036/img/Pasted image 20260427203542.png",
     "COMP0036/img/Pasted image 20260427183915.png",
-    "COMP0036/img/Pasted image 20260427202448.png",
-    "COMP0036/考查点.md",
     "因困成囚.md",
     "不是一封信.md",
     "COMP0036/img/README.md",
@@ -212,21 +277,12 @@
     "狼人杀笔记/4.25 机械狼3.md",
     "狼人杀笔记/5 白狼骑士.md",
     "狼人杀笔记/4.25 机械狼2.md",
-    "狼人杀笔记/4.25 机械狼.md",
-    "狼人杀笔记/4 狼美骑士.md",
-    "狼人杀笔记/3.md",
-    "狼人杀笔记/2.md",
-    "狼人杀笔记/12.6机械狼预言家3.md",
-    "狼人杀笔记/12.6 通灵师预言家.md",
-    "狼人杀笔记/12.6 通灵师机械狼2.md",
     "狼人杀笔记",
     "COMP0036/img",
     "COMP0036",
     "COMP0017",
     "Obsidian-Notes/狼人杀笔记",
     "Obsidian-Notes/COMP0036/img",
-    "Obsidian-Notes/COMP0036",
-    "Obsidian-Notes/COMP0017",
-    "Obsidian-Notes"
+    "Obsidian-Notes/COMP0036"
   ]
 }
