@@ -163,3 +163,12 @@ syntax error = compile-time/parser stage
 semantics assigns meaning
 syntax defines structure
 ```
+
+
+Explain the difference between a context-free grammar and a context-sensitive grammar.
+
+In a context-free grammar, every production has a single non-terminal on the left-hand side, e.g. A → α, so the non-terminal can be rewritten independently of its context. In a context-sensitive grammar, productions may depend on surrounding symbols, e.g. αAβ → αγβ, so rewriting can depend on the context in which a symbol appears.
+
+
+
+![[Pasted image 20260430121424.png]]Scope checking and type checking are context-sensitive semantic analyses. Scope checking requires information about declarations and active scopes, while type checking requires the declared types of variables and functions. A parser using a context-free grammar only checks syntactic structure, so these checks require semantic information such as symbol tables and type environments.

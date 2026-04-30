@@ -240,6 +240,7 @@ Return value: space for the procedure result.
 ## Memory leak
 
 分配了 heap object 但没有释放。
+not free memory
 
 ```c
 p = malloc(...);
@@ -249,6 +250,7 @@ p = malloc(...);
 ## Dangling reference
 
 对象已经释放，但指针还在使用。
+object memory freed, but the pointer is still in use
 
 ```c
 free(p);
@@ -258,6 +260,7 @@ free(p);
 ## Double free
 
 同一块内存释放两次。
+free twice same region of memory
 
 ```c
 free(p);
